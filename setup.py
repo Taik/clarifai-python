@@ -22,7 +22,7 @@ setup(
     install_requires=['future>=0.15, <2',
                       'requests>=2.13, <3',
                       'configparser>=3.5, <4',
-                      'jsonschema>=2.5, <3',
+                      'jsonschema>=3.0.1',
                       'grpcio>=1.13.0, <2',
                       'protobuf>=3.6, <4',
                       'googleapis-common-protos>=1.5.0, <2'] +
